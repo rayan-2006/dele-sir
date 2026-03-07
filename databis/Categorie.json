@@ -1,0 +1,42 @@
+[
+  {
+    "name" : "Fruits",
+    "discription" : "So So what you’re looking for fresh produce meals",
+    "img" : "/asetss/img/Blueberry.png" 
+  },
+  {
+    "name" : "Vegetables",
+    "discription" : "So So what you’re looking for fresh produce meals",
+    "img" : "/asetss/img/Green peas.jpg" 
+  },
+  {
+    "name" : "Bakers",
+    "discription" : "So So what you’re looking for fresh produce meals",
+    "img" : "/asetss/img/Bakers.jpg" 
+  },
+  {
+    "name" : "Juices",
+    "discription" : "So So what you’re looking for fresh produce meals",
+    "img" : "/asetss/img/Juices.jpg" 
+  },
+  {
+    "name" : "Cake",
+    "discription" : "So So what you’re looking for fresh produce meals",
+    "img" : "/asetss/img/Cake.jpg" 
+  },
+  {
+    "name" : "Smoothies",
+    "discription" : "So So what you’re looking for fresh produce meals",
+    "img" : "/asetss/img/Smoothies.jpg" 
+  },
+  {
+    "name" : "Eggs",
+    "discription" : "So So what you’re looking for fresh produce meals",
+    "img" : "/asetss/img/eggs.jpg" 
+  },
+  {
+    "name" : "Noodles",
+    "discription" : "So So what you’re looking for fresh produce meals",
+    "img" : "/asetss/img/Noodles.jpg" 
+  }
+]
