@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Pomme",
+    "category": "Fruits",
+    "correction-measurement": {
+      "unit": "kilogram",
+      "description": "Price per kilogram"
+    },
+    "like": false,
+    "star": 4.5,
+    "price": {
+      "original": 240,
+      "discount": 200
+    },
+    "image": "path/to/image.jpg",
+    "votes": 1
+  },
+  {
+    "name": "Brocoli Shake",
+    "category": "Fruits",
+    "correction-measurement": {
+      "unit": "Liter",
+      "description": "Price per Liter"
+    },
+    "like": true,
+    "star": 4.5,
+    "price": {
+      "original": 240,
+      "discount": 175
+    },
+    "image": "path/to/image.jpg",
+    "votes": 1
+  },
+  {
+    "name": "Pomme",
+    "category": "Fruits",
+    "correction-measurement": {
+      "unit": "pics",
+      "description": "Price per pics"
+    },
+    "like": false,
+    "star": 4.5,
+    "price": {
+      "original": 240,
+      "discount": 175
+    },
+    "image": "path/to/image.jpg",
+    "votes": 1
+  }
+]
